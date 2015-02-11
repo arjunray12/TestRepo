@@ -73,6 +73,6 @@ public class GoogleSearchPage {
 	        }
 	 
 	});*/
-		System.out.println("Test Pass......................");	
+		System.out.println("Test Pass");	
 }
 }
