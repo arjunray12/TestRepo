@@ -73,6 +73,6 @@ public class GoogleSearchPage {
 	        }
 	 
 	});*/
-		System.out.println("Test Pass Local Merge");	
+		System.out.println("Test Pass Master Change");	
 }
 }
